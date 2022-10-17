@@ -4,6 +4,9 @@
 
 I am looking forward to learning a bunch of new stuff to change my career to tech.
 
+<a href="https://www.linkedin.com/in/antje-walter"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+
+
 My favorite things:
 - 🍝 food 
 - 🎮 cozy gaming
@@ -11,4 +14,4 @@ My favorite things:
 
 ![This is the sign you've been looking for](https://images.unsplash.com/photo-1496449903678-68ddcb189a24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80)
 
-  <a href="https://www.linkedin.com/in/antje-walter"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+ 
