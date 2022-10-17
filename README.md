@@ -5,6 +5,7 @@
 I am looking forward to learning a bunch of new stuff to change my career to tech.
 
 My favorite things:
+
  🍝 food
  
  🐈 animals, especially cats and dogs
