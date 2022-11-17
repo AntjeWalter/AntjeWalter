@@ -4,6 +4,12 @@
 
 I am looking forward to learning a bunch of new stuff to change my career to tech.
 
+Currently learning:
+- React
+- JavaScript
+- CSS
+- HTML5
+
 <a href="https://www.linkedin.com/in/antje-walter"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 
