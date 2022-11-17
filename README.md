@@ -10,7 +10,7 @@ Currently learning:
 - CSS
 - HTML5
 
-<a href="https://www.linkedin.com/in/antje-walter"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+Feel free to contact me via <a href="https://www.linkedin.com/in/antje-walter"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 
 Further qualifications:
