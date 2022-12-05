@@ -5,6 +5,7 @@
 I am looking forward to learning a bunch of new stuff to change my career to tech.
 
 Currently learning:
+- Next.js
 - React
 - JavaScript
 - CSS
