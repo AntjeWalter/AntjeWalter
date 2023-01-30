@@ -1,6 +1,6 @@
 # Hello World that's still rather new to me 👋🏼
 
-**My name is Antje Walter and I am a Web Development student.**
+**My name is Antje Walter and I am a Web Development newbie.**
 
 I am looking forward to learning a bunch of new stuff to change my career to tech.
 
