@@ -4,7 +4,7 @@
 
 I am looking forward to learning a bunch of new stuff to change my career to tech.
 
-Currently learning:
+Recently learned:
 - Next.js
 - React
 - JavaScript
