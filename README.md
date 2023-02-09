@@ -1,8 +1,8 @@
 # Hello World that's still rather new to me 👋🏼
 
-**My name is Antje Walter and I am a Web Development newbie.**
+**My name is Antje Walter and I am a Junior Web Developer.**
 
-I am looking forward to learning a bunch of new stuff to change my career to tech.
+My goal is to merge my new development skills and the knowledge from my studies to build valuable products.
 
 TechStack:
 - Next.js
