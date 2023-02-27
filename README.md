@@ -11,10 +11,6 @@ TechStack:
 - CSS
 - HTML5
 
-Currently learning:
-- PHP
-- WordPress
-
 Feel free to contact me via <a href="https://www.linkedin.com/in/antje-walter"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 
