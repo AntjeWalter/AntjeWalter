@@ -2,7 +2,7 @@
 
 **My name is Antje Walter and I am a Junior Web Developer.**
 
-My goal is to merge my new development skills and the knowledge from my studies to build valuable products.
+I recently finished a three-month web development bootcamp at neuefische GmbH. My goal is to merge my new development skills and the knowledge from my studies to build valuable products.
 
 TechStack:
 - Next.js
